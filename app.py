@@ -1,6 +1,0 @@
-x1 = int(input("X1: "))
-y1 = int(input("X1: "))
-x2 = int(input("X1: "))
-y2 = int(input("X1: "))
-x3 = int(input("X1: "))
-y3 = int(input("X1: "))
